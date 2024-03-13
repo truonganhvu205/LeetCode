@@ -1,4 +1,4 @@
-# LEETCODE
+# LeetCode
 ## [Alorithms](https://github.com/truonganhvu205/leetcode/tree/main/algorithms)
    |_ [Easy](https://github.com/truonganhvu205/leetcode/tree/main/algorithms/easy)  
    |_ Medium  
