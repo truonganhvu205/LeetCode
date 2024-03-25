@@ -1,5 +1,5 @@
 # LeetCode
-## [Alorithms](https://github.com/truonganhvu205/leetcode/tree/main/algorithms)
+## 1. [Alorithms](https://github.com/truonganhvu205/leetcode/tree/main/algorithms)
 * [Easy](https://github.com/truonganhvu205/leetcode/tree/main/algorithms/easy)  
 * Medium  
 * Hard
